@@ -5,6 +5,7 @@
 ### Titles & Guidelines
 
 - [Final Fantasy XIV](https://support.jp.square-enix.com/rule.php?id=5381&la=0&tag=authc)
+- [Final Fantasy XVI](https://jp.finalfantasyxvi.com/guideline/stream/)
 - [Tactics Ogre REBORN](https://www.jp.square-enix.com/game/guideline/tor/)
 
 ## Nintendo
