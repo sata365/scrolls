@@ -15,6 +15,8 @@ Guideline: [ネットワークサービスにおける任天堂の著作物の�
 ### Titles
 
 - Splatoon 3
+- マリオRPG
+- ゼルダの伝説
 
 ## FromSoftware
 
@@ -23,12 +25,23 @@ Guideline: [動画・画像の投稿に関するガイドライン](https://www.
 ### Titles
 
 - ELDEN RING
+- ARMORED CORE VI
+
+## CAPCOM
+
+Guideline: [カプコン動画ガイドライン（個人向け）](https://www.capcom-games.com/ja-jp/video-policy/)
+
+### Titles
+
+- Monster Hunter World/Rise
+- Street Fighter VI
 
 ## Rockstar Games
 
 Guideline: [ロックスター・ゲームスに著作権があるコンテンツの投稿に関するポリシー](https://support.rockstargames.com/jp/articles/200153756/)
 
 ### Titles
+
 - GTA Online
 
 # Games contents
